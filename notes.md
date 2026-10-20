@@ -5,3 +5,4 @@
 - Pair programming session verified.
 - Colaboración en pair programming entre Iñigo y Alfred.
 - Pair programming review by Inigo and Alfred.
+- Pair programming session verified with itsguzman48.
